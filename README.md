@@ -1,6 +1,6 @@
 # COMP 551 Projects
 
-Miniproject 2 (Run on Colab)
+Miniproject 2 (Run on local computer)
 
 Sentiment Analysis of IMDB Movie Reviews Dataset (NLP) February 2019
 * Implemented text vectorization techniques using bag-of-words and TF-IDF.
